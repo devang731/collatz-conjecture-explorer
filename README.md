@@ -16,9 +16,7 @@ This project is my attempt to go as deep as possible anyway.
 - Documenting every finding and every failure publicly
 
 ## Why
-I am a self-taught student from Ambala, India with no formal
-CS training or coaching. I started this on [PUT TODAY'S DATE]
-because I could not stop thinking about why such a simple rule
+Because I could not stop thinking about why such a simple rule
 produces behaviour that mathematics cannot yet predict.
 
 ## Structure
